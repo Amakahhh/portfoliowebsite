@@ -2,8 +2,9 @@
     "builds": [
       {
         "src": "**/*",
-        "use": "@vercel/next",
-        "commands": ["npm install"] 
+        "use": "@vercel/next"
       }
     ]
   }
+
+
